@@ -2,7 +2,7 @@
 
 [![Twitter Badge](https://img.shields.io/badge/-@succynice-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/succynice)](https://twitter.com/succynice)
 
-I'm a Software Engineer, Graphic Designer and Coach, and Electrical Engineer who currently works as a Meter Engineer at [Enugu Electricity Distribution Company](https://www.enugudisco.com/). I'm passionate about Solving problems, sharing knowledge, documentation, web engineering, Visual identity Design, UI/UX and others. I create technical content  (on my [Medium page](https://medium.com/@succynice), speak at some meetups/conferences, build technical communities...
+I'm a Software Engineer, Visual and Produch Designer, and Electrical Engineer who currently works as a Meter Engineer at [Enugu Electricity Distribution Company](https://www.enugudisco.com/). I'm passionate about Solving problems, sharing knowledge, documentation, web engineering, and others. I create technical content  (on my [Blog](https://medium.com/@succynice), Design Content - [Potfolio](https://pages.disha.ng/build/edit), speak at some meetups/conferences, build technical communities...
 
 **Here's a quick summary about me**:
 
