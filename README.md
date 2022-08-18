@@ -50,7 +50,7 @@ Name | Badges
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=succynice&" alt="Succynice" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=succynice&gh-dark-mode-only" alt="Succynice" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=succynice&theme=dark" alt="Succynice" /></p>
 <br/>
  <b>Note:</b> The top languages shown here is just a measure of what i have posted here on Github and not my actual skill level
 
