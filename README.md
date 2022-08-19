@@ -43,6 +43,7 @@ Name | Badges
 
  <br>
 
+
 ---
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=succynice&show_icons=true&include_all_commits=true&hide_border=true" alt="Succynice's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=succynice&langs_count=8&layout=compact&hide_border=true" alt="Succynice's GitHub stats" /> |
