@@ -47,10 +47,10 @@ Name | Badges
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=succynice&theme=react-dark&show_icons=true&include_all_commits=true&hide_border=true" alt="Succynice's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=succynice&theme=react-dark&langs_count=8&layout=compact&hide_border=true" alt="Succynice's GitHub stats" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=succynice&show_icons=true&include_all_commits=true&hide_border=true" alt="Succynice's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=succynice&langs_count=8&layout=compact&hide_border=true" alt="Succynice's GitHub stats" /> |
 | ------------- | ------------- |
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=succynice&theme=react-dark" alt="Succynice" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=succynice" alt="Succynice" /></p>
 <br/>
  <b>Note:</b> The top languages shown here is just a measure of what i have posted here on Github and not my actual skill level
 <br/>
