@@ -28,8 +28,8 @@ I'm a Software Engineer, Visual and Product Designer, and Electrical Engineer wh
 [![C](https://img.shields.io/static/v1?label=&message=C%20Language&color=5C6BC0&logo=c&logoColor=A8B9CC&labelColor=2F333A)](https://www.cprogramming.com/)<!-- c -->
 [![Python](https://img.shields.io/static/v1?label=&message=Python&color=FFD43B&logo=python&logoColor=3776AB&labelColor=2F333A)](https://www.python.org)<!-- python-->
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)<!--HTML5-->
-[![CSS3](https://img.shields.io/static/v1?label=&message=Code-CSS3&color=0071B5&logo=CSS3&logoColor=1572B6&labelColor=2F333A)](https://developer.mozilla.org/en-US/docs/Web/CSS)<!-- CSS3 -->
-[![JS](https://img.shields.io/static/v1?label=&message=JavaScript&color=D4B830&logo=JavaScript&logoColor=F7DF1E&labelColor=2F333A)](https://www.javascript.com)<!-- JS -->
+![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)<!-- CSS3 -->
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)<!-- JS -->
 [![TypeScript](https://img.shields.io/static/v1?label=&message=TypeScript&color=3178C6&logo=TypeScript&logoColor=3178C6&labelColor=2F333A)](https://www.typescriptlang.org/)<!-- TS -->
 [![Markdown](https://img.shields.io/static/v1?label=&message=Markdown&color=f4f4f4&logo=Markdown&logoColor=f2f2f2&labelColor=2F333A)](https://www.markdownguide.org/)<!-- Markdown -->
 [![SQL](https://img.shields.io/static/v1?label=SQL&message=SQL&color=4479A1&logo=SQL&logoColor=4479A1&labelColor=E8E8E8)](https://www.w3schools.com/sql/)<!-- sql -->
