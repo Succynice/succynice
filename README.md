@@ -55,7 +55,11 @@ Name | Badges
  <b>Note:</b> The top languages shown here is just a measure of what i have posted here on Github and not my actual skill level
 <br/>
 
- <a href="https://github.com/Succynice/github-readme-activity-graph"><img alt="Success Chikezie's' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Succynice&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+### 📈 My Github stats
+
+<!--  <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=succynice&theme=react-dark&custom_title=Contribution%20Graph"> -->
+[![ralex's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=succynice&theme=dracula)](https://github.com/succynice)
+<!-- Contribution graph -->
 
 <br/>
 
