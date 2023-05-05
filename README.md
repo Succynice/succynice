@@ -141,12 +141,12 @@ Name | Badges
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <br/>
 
-### 📈 My Github stats
+
+<!-- ### 📈 My Github stats
 
 <!--  <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=succynice&theme=react-dark&custom_title=Contribution%20Graph"> -->
-[![Success Chikezie's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=succynice&theme=dracula)](https://github.com/succynice)
+<!-- [![Success Chikezie's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=succynice&theme=dracula)](https://github.com/succynice)
 <!-- Contribution graph -->
 
-<br/>
 
 
