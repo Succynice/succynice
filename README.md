@@ -67,6 +67,7 @@ I'm a Software Engineer, Visual and Product Designer, and Electrical Engineer wh
 [![Illustrator](https://img.shields.io/static/v1?label=&message=Adobe%20Illustrator&color=FF9A00&logo=Adobe%20Illustrator&logoColor=FF9A00&labelColor=2F333A)](https://www.adobe.com/products/illustrator.html)<!-- Illustrator -->
 [![Photoshop](https://img.shields.io/static/v1?label=&message=Adobe%20Photoshop&color=31A8FF&logo=Adobe%20Photoshop&logoColor=31A8FF&labelColor=2F333A)](https://www.adobe.com/products/photoshop.html)<!-- Photoshop -->
 
+
 ### Front-end
 
 <!-- Angular -->
