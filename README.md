@@ -148,10 +148,3 @@ Name | Badges
 <!--  <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=succynice&theme=react-dark&custom_title=Contribution%20Graph"> -->
 <!-- [![Success Chikezie's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=succynice&theme=dracula)](https://github.com/succynice)
 <!-- Contribution graph -->
-
-
-
-
-
-
-
