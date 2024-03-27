@@ -19,9 +19,9 @@ I'm a Software Engineer, Visual and Product Designer, and Electrical Engineer wh
 <!-- skill badges -->
 ![soft skills](https://img.shields.io/badge/-agile%20mindset-orange)
 ![soft skills](https://img.shields.io/badge/-continuous%20learning%20-orange)
-<!-- ![soft skills](https://img.shields.io/badge/-failure%20friendly-orange) -->
 ![soft skills](https://img.shields.io/badge/-analytic-orange)
 ![soft skills](https://img.shields.io/badge/-resilent-orange)
+<!-- ![soft skills](https://img.shields.io/badge/-failure%20friendly-orange) -->
 
 ## Stack
 
